@@ -32,7 +32,7 @@ All the end points start from /api/v1/user
     - /delete/:id = To Delete User
    
 
-NOTE - I was not able UI of PATCH Request.
+NOTE - I was not able to implement UI of PATCH Request.
     
 ### Backend File System
 ```
@@ -55,6 +55,6 @@ NOTE - I was not able UI of PATCH Request.
  ┗ 📜readme.md
 ```
 ### Working 
-![Working]()
+![Working](ShowCase.gif)
 
 
